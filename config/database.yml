@@ -1,0 +1,6 @@
+development:
+  adapter: mysql2
+  database: 
+  username: 
+  password: 
+  host: 
