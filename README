@@ -5,3 +5,10 @@ Endpoints so far:
 
 0.0.0.0:9000/users?id=id
 0.0.0.0:9000/articles 
+
+#TODO
+- airbrake
+- newrelic
+- logging/reporting/ganglia
+- metrics/benchmarking vs rails/sinatra
+- authentication/oauth
