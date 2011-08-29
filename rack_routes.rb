@@ -1,3 +1,5 @@
+require "rubygems"
+require "bundler/setup" #using bundler for dependencies
 require 'goliath'
 require 'yajl'
 # Example demonstrating how to have an API acting as a router.
